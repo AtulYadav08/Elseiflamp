@@ -1,0 +1,134 @@
+{
+    "page": "privacy",
+    "title": "Privacy Policy",
+    "last_updated": "January 23, 2025",
+    "introduction": {
+      "welcome": "Welcome to Elseif. Elseif Inc. (hereinafter referred to as “Elseif”) operates the Elseif service as one of its products. Throughout this Privacy Policy, references to “Elseif,” “we,” “us,” “our,” and similar terms refer to Elseif and its affiliates. By using the Elseif service, you acknowledge and agree that Elseif is the entity responsible for the collection, use, and protection of your personal information as described in this Privacy Policy.",
+      "notice": "Please carefully read this Policy before you use or submit any information through or in connection with the Services. If you do not agree with this Policy, please do not access or use our Services or interact with any other aspect of our business. Unless otherwise required by laws in your residence, by using our Services, you accept our privacy practices described in this Policy."
+    },
+    "sections": [
+      {
+        "id": 1,
+        "heading": "What information we collect about you?",
+        "content": {
+          "subsections": [
+            {
+              "title": "Information you provide to us",
+              "details": [
+                "Account and profile information (name, email, password, job title, profile photo, etc.).",
+                "Content you provide through our products (applications, commands, files, links).",
+                "Content you provide through community platforms or social media (GitHub, Discord, Slack, etc.).",
+                "Information provided through our support channels (contact info, issue details, screenshots).",
+                "Payment and billing information (processed by third-party providers such as Stripe)."
+              ]
+            },
+            {
+              "title": "Information we collect automatically when you use the Services",
+              "details": [
+                "Usage data (features you use, clicks, files uploaded, interactions).",
+                "Device and connection information (OS, browser, IP address, crash data).",
+                "Geolocation data (IP-based approximate location).",
+                "Cookies and tracking technologies (pixels, scripts, local storage)."
+              ]
+            },
+            {
+              "title": "Information we receive from other sources",
+              "details": [
+                "Data from service users, partners, providers, social platforms, public databases.",
+                "May be combined with collected data to improve personalization, records, and marketing."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "heading": "How we use information we collect?",
+        "content": [
+          "Operate, maintain, and improve our services.",
+          "Understand user preferences and enhance experience.",
+          "Monitor usage, detect trends, and secure systems.",
+          "Respond to support requests and provide assistance.",
+          "Deliver services requested by you.",
+          "Comply with legal obligations and defend against claims.",
+          "Communicate about promotions, events, and updates.",
+          "Plan and host corporate events.",
+          "Protect against fraud, unauthorized, or illegal activity."
+        ]
+      },
+      {
+        "id": 3,
+        "heading": "How we share information we collect?",
+        "content": [
+          "With business partners and service providers (hosting, analytics, payments, support).",
+          "With potential buyers and advisors during mergers or acquisitions.",
+          "With authorities to comply with laws, enforce policies, and protect safety."
+        ]
+      },
+      {
+        "id": 4,
+        "heading": "Data Retention and Security",
+        "content": [
+          "We retain personal data only as long as necessary for services, legal, or operational reasons.",
+          "Data may be processed in various regions including US, EU, UK, and Asia.",
+          "We use safeguards such as Standard Contractual Clauses (for EEA transfers).",
+          "Security measures are implemented but absolute security cannot be guaranteed."
+        ]
+      },
+      {
+        "id": 5,
+        "heading": "How to access and control your information?",
+        "content": [
+          "Access, rectify, or erase your personal data.",
+          "Object to processing or restrict processing.",
+          "Request data portability.",
+          "Withdraw consent for processing.",
+          "Opt-out of promotional communications (unsubscribe links, settings).",
+          "Submit data requests via our Data Request Portal.",
+          "Note: Some rights may be limited if data retention is legally required."
+        ]
+      },
+      {
+        "id": 6,
+        "heading": "Our policy toward children",
+        "content": [
+          "Services are not directed to children under 18.",
+          "We do not knowingly collect data from minors.",
+          "If found, data will be deleted promptly."
+        ]
+      },
+      {
+        "id": 7,
+        "heading": "Changes to our policy",
+        "content": [
+          "We may modify this Policy anytime.",
+          "Changes apply immediately unless otherwise required by law.",
+          "Material changes will be notified prominently.",
+          "Continued use means acceptance of updated policy."
+        ]
+      },
+      {
+        "id": 8,
+        "heading": "Lawful basis for processing personal information (EEA only)",
+        "content": {
+          "examples": [
+            "Account setup and authentication (contractual necessity).",
+            "Communications with users (contractual necessity).",
+            "Marketing communications (consent-based).",
+            "Fraud detection and prevention (legitimate interests).",
+            "Information may be shared with providers: Stripe, AWS, Google, GitHub, Cloudflare, Sentry, etc."
+          ]
+        }
+      }
+    ],
+    "footer": {
+      "company": "© 2025 Elseif Inc.",
+      "links": [
+        { "label": "Docs", "url": "/docs" },
+        { "label": "Terms of Service", "url": "/terms" },
+        { "label": "Privacy Policy", "url": "/privacy" },
+        { "label": "Cookie Settings", "url": "/cookies" }
+            ]
+    }
+  }
+  

@@ -1,0 +1,75 @@
+{
+    "platformName": "Elseif.AI",
+    "latestUpdate": "September 23, 2024",
+    "intro": "Your continued use of our Service automatically constitutes your acceptance of these updated Terms.",
+    "welcome": "Welcome to https://elseif.ai/. Please read these Elseif.AI Terms of Service (the “Terms”) carefully. They govern your access to and use of Elseif.AI’s services available at https://elseif.ai/ after logging into your Elseif.AI Account and any updates, upgrades, modified versions, extensions, improvements, and derivative works of the foregoing (collectively, the “Service”).",
+    "definitions": [
+      {"term": "Service", "description": "The website service https://elseif.ai/ of the product Elseif provided by LangGenius. The Service is provided 'as is' without any express or implied warranties."},
+      {"term": "Elseif.AI", "description": "SaaS software developed by LangGenius, Inc."},
+      {"term": "Customer", "description": "An individual or entity accepting this Agreement and registered for the https://elseif.ai/ service."},
+      {"term": "Account Information", "description": "Information about your Elseif account and user-provided information including names, usernames, passwords, email addresses, and billing info."},
+      {"term": "Beta Release", "description": "Any alpha, beta, developmental, test, experimental, preview, or early-access releases of the Service or other Elseif products or services."},
+      {"term": "Third-Party Services", "description": "Any third-party service, site, platform, application, software, or integration interoperating with the Service."},
+      {"term": "Affiliate", "description": "An entity controlled, controlling, or under common control with a party, with at least 50% ownership or power to direct management."},
+      {"term": "Documentation", "description": "Elseif-provided user documentation relating to the Service found in our help center."},
+      {"term": "Feedback", "description": "Feedback, comments, ideas, proposals, and suggestions for improvements."},
+      {"term": "Fees", "description": "Fees applicable to your use of the Service as set on the Elseif website or order form."},
+      {"term": "Taxes", "description": "Any sales, use, GST, value-added, withholding, or similar taxes applicable to the Service."},
+      {"term": "Subscription Term", "description": "The period during which you have agreed to subscribe to the Service."},
+      {"term": "Content", "description": "Any data, information, or material created, uploaded, shared, or stored by the user through the Service, including AI applications."},
+      {"term": "AI Application", "description": "A software capability built by the user through the Service incorporating AI, machine learning, or similar technologies."},
+      {"term": "Customer Data", "description": "Information, data, and content submitted, posted, or transmitted by or on behalf of Customer or any Authorized User through the AI Services."},
+      {"term": "High-Risk Activity", "description": "Has the meaning as set forth in the EU AI Act."}
+    ],
+    "services": {
+      "general": "LangGenius will make the Services available to you. You may use your Elseif.AI Account only for lawful purposes and in accordance with these Terms and Documentation.",
+      "restrictions": [
+        "No reverse engineering or decompiling the Service.",
+        "No copying, modifying, or creating derivative works of the Service.",
+        "No conducting security tests or interfering with Service operation.",
+        "No developing a competitive product.",
+        "No High-Risk Activities or Sensitive Personal Data usage."
+      ],
+      "betaServices": "Beta Releases may be provided for internal evaluation purposes only and are not covered under the standard Terms.",
+      "thirdPartyServices": "Accessing third-party services through Elseif.AI is at your own risk. Elseif.AI is not responsible for third-party content or actions.",
+      "support": "Support is provided through Documentation and resources on https://elseif.ai/. Elseif.AI is not obligated to provide support."
+    },
+    "feesAndPayment": {
+      "nonRefundable": "Fees are non-refundable and payment obligations are non-cancelable.",
+      "subscription": "Unless cancelled or downgraded, subscriptions auto-renew for another term at the applicable fees.",
+      "taxes": "Customer is responsible for all taxes except Elseif.AI’s income tax."
+    },
+    "privacyAndDataUse": {
+      "privacyPolicy": "Customer is responsible for providing Privacy Policies for any personal data collected through Elseif.AI applications.",
+      "dataLicense": "Customer retains ownership of Customer Content, granting Elseif a limited license to operate, maintain, and improve the Service."
+    },
+    "proprietaryRights": {
+      "ownership": "Elseif.AI retains all rights, title, and interest in the Service, including updates and derivative works.",
+      "trademarks": "Elseif.AI logos and product names are trademarks. Customers cannot use them without permission."
+    },
+    "disclaimerAndLiability": {
+      "disclaimer": "Service provided 'AS IS' and 'AS AVAILABLE'. Elseif.AI disclaims all warranties to the maximum extent permitted by law.",
+      "liability": "Indirect or consequential damages are not recoverable. Maximum liability capped at fees paid in the preceding 3 months."
+    },
+    "termAndTermination": {
+      "terminationByUser": "Users may terminate by deleting their Elseif.AI account.",
+      "terminationByElseif": "Elseif.AI may terminate accounts or suspend services for any reason including violations of these Terms.",
+      "suspension": "Immediate suspension may occur due to law, government requirements, account security, or breach of Terms."
+    },
+    "confidentialInformation": {
+      "definition": "Confidential Information includes all non-public business, product, technology, and marketing information.",
+      "obligations": "Parties must take reasonable measures to protect Confidential Information and only use it for Service purposes."
+    },
+    "forceMajeure": "Neither party shall be liable for service interruptions caused by natural disasters, network issues, government actions, or other uncontrollable events.",
+    "governingLaw": {
+      "law": "State of Delaware, without reference to conflict of laws principles.",
+      "disputeResolution": "Negotiation for 14 business days followed by exclusive jurisdiction in San Francisco, California courts."
+    },
+    "miscellaneous": {
+      "classActionWaiver": "Users waive any right to participate in Class Actions against Elseif.AI.",
+      "assignment": "Neither party may assign rights without consent, except in corporate reorganization or sale of assets.",
+      "changesToTerms": "Elseif.AI may revise these Terms and notify users of material changes. Continued use constitutes acceptance.",
+      "entireAgreement": "These Terms constitute the entire agreement between the parties."
+    }
+  }
+  
